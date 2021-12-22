@@ -1,0 +1,24 @@
+.heading{
+    font-size:23px;
+width:100%;
+margin:0;
+}
+.note{
+    font-size:18px;
+    color:black;
+}
+body{
+    background-size: cover;
+}
+
+#snog{
+    width:200px;
+    border-radius:100px ;
+    box-shadow:5px 5px 5px lightgrey;
+}
+canvas{
+width: 420px ;
+height:420px;
+background-color: black;
+border-radius: 50%;
+}
